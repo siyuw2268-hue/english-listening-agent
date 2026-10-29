@@ -33,18 +33,20 @@ jobs:
         run: python -m pip install 'edge-tts>=7,<8'
       - name: Generate lesson
         run: python build.py --target "${{ github.event_name == 'schedule' && 'tomorrow' || inputs.target || 'today' }}"
+      
       - name: Save published assets and dedup state
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+
           git add site
+
           if ! git diff --cached --quiet; then
             git commit -m "Publish English lesson"
-            git push
+
+            # Sync remote changes before pushing
+            git pull --rebase origin main
+
+            # Push the updated branch
+            git push origin HEAD:main
           fi
-      - uses: actions/configure-pages@v5
-      - uses: actions/upload-pages-artifact@v3
-        with:
-          path: site
-      - id: deployment
-        uses: actions/deploy-pages@v4
