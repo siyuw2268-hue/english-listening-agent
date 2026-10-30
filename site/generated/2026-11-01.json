@@ -1,0 +1,24 @@
+{
+  "date": "2026-11-01",
+  "title": "Daily English Briefing · 2026-11-01",
+  "audio": "generated/2026-11-01.mp3",
+  "srt": "generated/2026-11-01.srt",
+  "text": "generated/2026-11-01.txt",
+  "sources": [
+    {
+      "title": "Tech Now",
+      "url": "https://www.bbc.co.uk/iplayer/episode/m0032301?at_medium=RSS&at_campaign=rss",
+      "hash": "6c40c11f4bdde18b"
+    },
+    {
+      "title": "Regular spaceplane flights planned in project",
+      "url": "https://www.bbc.co.uk/news/articles/cmdxwzz7x4pno?at_medium=RSS&at_campaign=rss",
+      "hash": "02ebeb38062563b3"
+    },
+    {
+      "title": "Musk says SpaceX restricted Ukraine's Starlink connection as service restored",
+      "url": "https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo?at_medium=RSS&at_campaign=rss",
+      "hash": "c3577f2a7d831f2f"
+    }
+  ]
+}

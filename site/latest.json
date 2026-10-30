@@ -1,24 +1,24 @@
 {
-  "date": "2026-10-30",
-  "title": "Daily English Briefing · 2026-10-30",
-  "audio": "generated/2026-10-30.mp3",
-  "srt": "generated/2026-10-30.srt",
-  "text": "generated/2026-10-30.txt",
+  "date": "2026-11-01",
+  "title": "Daily English Briefing · 2026-11-01",
+  "audio": "generated/2026-11-01.mp3",
+  "srt": "generated/2026-11-01.srt",
+  "text": "generated/2026-11-01.txt",
   "sources": [
     {
-      "title": "BBC Inside Science",
-      "url": "https://www.bbc.co.uk/sounds/play/w3ct978b?at_medium=RSS&at_campaign=rss",
-      "hash": "871b3fe9f5884cc3"
+      "title": "Tech Now",
+      "url": "https://www.bbc.co.uk/iplayer/episode/m0032301?at_medium=RSS&at_campaign=rss",
+      "hash": "6c40c11f4bdde18b"
     },
     {
-      "title": "How cleaning up the air is speeding up global warming - and revealing a bigger problem",
-      "url": "https://www.bbc.co.uk/news/articles/c20917w25n4o?at_medium=RSS&at_campaign=rss",
-      "hash": "c9203c66b818d5a7"
+      "title": "Regular spaceplane flights planned in project",
+      "url": "https://www.bbc.co.uk/news/articles/cmdxwzz7x4pno?at_medium=RSS&at_campaign=rss",
+      "hash": "02ebeb38062563b3"
     },
     {
-      "title": "Elon Musk is a 'real genius', Putin says after satellite talks with SpaceX boss",
-      "url": "https://www.bbc.co.uk/news/articles/c63djl148n3eo?at_medium=RSS&at_campaign=rss",
-      "hash": "69100f70fe6c8879"
+      "title": "Musk says SpaceX restricted Ukraine's Starlink connection as service restored",
+      "url": "https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo?at_medium=RSS&at_campaign=rss",
+      "hash": "c3577f2a7d831f2f"
     }
   ]
 }
