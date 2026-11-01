@@ -1,24 +1,24 @@
 {
-  "date": "2026-11-02",
-  "title": "Daily English Briefing · 2026-11-02",
-  "audio": "generated/2026-11-02.mp3",
-  "srt": "generated/2026-11-02.srt",
-  "text": "generated/2026-11-02.txt",
+  "date": "2026-11-03",
+  "title": "Daily English Briefing · 2026-11-03",
+  "audio": "generated/2026-11-03.mp3",
+  "srt": "generated/2026-11-03.srt",
+  "text": "generated/2026-11-03.txt",
   "sources": [
     {
-      "title": "Why is Elon Musk plotting a mega-merger of SpaceX and Tesla?",
-      "url": "https://www.bbc.co.uk/news/articles/cr93z1e87e0do?at_medium=RSS&at_campaign=rss",
-      "hash": "9672a1ba33743939"
+      "title": "'Rok' solid recognition for Slovenian space scientist",
+      "url": "https://www.bbc.co.uk/news/articles/cqx283v54zd6o?at_medium=RSS&at_campaign=rss",
+      "hash": "d85a8e8ffd998397"
     },
     {
-      "title": "Part of Antarctica named after former BBC science correspondent",
-      "url": "https://www.bbc.co.uk/news/articles/ckvg7w919x09o?at_medium=RSS&at_campaign=rss",
-      "hash": "a35d452b26b52107"
+      "title": "'Rok' solid recognition for Slovenian space scientist",
+      "url": "https://www.bbc.co.uk/news/articles/cqx283v54zd6o?at_medium=RSS&at_campaign=rss",
+      "hash": "d85a8e8ffd998397"
     },
     {
-      "title": "Mission blasts off for Mars to grab a piece of its moon",
-      "url": "https://www.bbc.co.uk/news/articles/cmvgxvkv54w1o?at_medium=RSS&at_campaign=rss",
-      "hash": "aefc9e9de81f5c04"
+      "title": "A bust-up between mathematicians is fuelling fears that AI could undermine science",
+      "url": "https://www.bbc.co.uk/news/articles/c6gelgxjwzdzo?at_medium=RSS&at_campaign=rss",
+      "hash": "841b70d31bd689d0"
     }
   ]
 }
