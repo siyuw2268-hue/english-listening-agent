@@ -1,0 +1,24 @@
+{
+  "date": "2026-11-05",
+  "title": "Daily English Briefing · 2026-11-05",
+  "audio": "generated/2026-11-05.mp3",
+  "srt": "generated/2026-11-05.srt",
+  "text": "generated/2026-11-05.txt",
+  "sources": [
+    {
+      "title": "Welsh public sector unlikely to meet net zero plans by 2030, say auditors",
+      "url": "https://www.bbc.co.uk/news/articles/cm62y97z2n71o?at_medium=RSS&at_campaign=rss",
+      "hash": "b21a91ce3711df08"
+    },
+    {
+      "title": "AI data centres could undermine UK's emissions goals",
+      "url": "https://www.bbc.co.uk/news/articles/cqvgrvx6ekl2o?at_medium=RSS&at_campaign=rss",
+      "hash": "80e95b37d75f905b"
+    },
+    {
+      "title": "Scientists detect signals at the smallest scale ever explored",
+      "url": "https://www.bbc.co.uk/news/articles/c5pvgxkkv4dzo?at_medium=RSS&at_campaign=rss",
+      "hash": "b1ff034bc1848ef8"
+    }
+  ]
+}
