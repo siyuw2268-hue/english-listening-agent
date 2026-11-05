@@ -1,24 +1,24 @@
 {
-  "date": "2026-11-06",
-  "title": "Daily English Briefing · 2026-11-06",
-  "audio": "generated/2026-11-06.mp3",
-  "srt": "generated/2026-11-06.srt",
-  "text": "generated/2026-11-06.txt",
+  "date": "2026-11-07",
+  "title": "Daily English Briefing · 2026-11-07",
+  "audio": "generated/2026-11-07.mp3",
+  "srt": "generated/2026-11-07.srt",
+  "text": "generated/2026-11-07.txt",
   "sources": [
     {
-      "title": "Prince William says UK faces terrifying risk of more wildfires due to climate change",
-      "url": "https://www.bbc.co.uk/news/articles/cr62yv02zwxwo?at_medium=RSS&at_campaign=rss",
-      "hash": "7e32bf4f80e54b71"
+      "title": "Shares in Musk's SpaceX plunge as tech and AI stocks fall",
+      "url": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
+      "hash": "0a031867977b4c0f"
     },
     {
-      "title": "Prince William says UK faces terrifying risk of more wildfires due to climate change",
-      "url": "https://www.bbc.co.uk/news/articles/cr62yv02zwxwo?at_medium=RSS&at_campaign=rss",
-      "hash": "7e32bf4f80e54b71"
+      "title": "Elon Musk's millions failed to deliver Republican wins in fierce midterms",
+      "url": "https://www.bbc.co.uk/news/articles/cv8ez3p3ge5ko?at_medium=RSS&at_campaign=rss",
+      "hash": "1969e0cde97f1ce4"
     },
     {
-      "title": "French blood storage impacted by freezer hacks as theories swirl about culprits",
-      "url": "https://www.bbc.co.uk/news/articles/c8vgxyvz6y9ro?at_medium=RSS&at_campaign=rss",
-      "hash": "4652f341347ce786"
+      "title": "Graduates are managing AI - but are they learning much else?",
+      "url": "https://www.bbc.co.uk/news/articles/c820vz6wyp65o?at_medium=RSS&at_campaign=rss",
+      "hash": "88af8f0515a79c34"
     }
   ]
 }

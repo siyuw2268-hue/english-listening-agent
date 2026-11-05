@@ -1,0 +1,24 @@
+{
+  "date": "2026-11-07",
+  "title": "Daily English Briefing · 2026-11-07",
+  "audio": "generated/2026-11-07.mp3",
+  "srt": "generated/2026-11-07.srt",
+  "text": "generated/2026-11-07.txt",
+  "sources": [
+    {
+      "title": "Shares in Musk's SpaceX plunge as tech and AI stocks fall",
+      "url": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
+      "hash": "0a031867977b4c0f"
+    },
+    {
+      "title": "Elon Musk's millions failed to deliver Republican wins in fierce midterms",
+      "url": "https://www.bbc.co.uk/news/articles/cv8ez3p3ge5ko?at_medium=RSS&at_campaign=rss",
+      "hash": "1969e0cde97f1ce4"
+    },
+    {
+      "title": "Graduates are managing AI - but are they learning much else?",
+      "url": "https://www.bbc.co.uk/news/articles/c820vz6wyp65o?at_medium=RSS&at_campaign=rss",
+      "hash": "88af8f0515a79c34"
+    }
+  ]
+}
