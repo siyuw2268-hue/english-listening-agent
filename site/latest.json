@@ -1,24 +1,24 @@
 {
-  "date": "2026-11-08",
-  "title": "Daily English Briefing · 2026-11-08",
-  "audio": "generated/2026-11-08.mp3",
-  "srt": "generated/2026-11-08.srt",
-  "text": "generated/2026-11-08.txt",
+  "date": "2026-11-09",
+  "title": "Daily English Briefing · 2026-11-09",
+  "audio": "generated/2026-11-09.mp3",
+  "srt": "generated/2026-11-09.srt",
+  "text": "generated/2026-11-09.txt",
   "sources": [
     {
-      "title": "How climate change worsens heatwaves, droughts, wildfires and floods",
-      "url": "https://www.bbc.co.uk/news/articles/cy4dgp1p3p1o?at_medium=RSS&at_campaign=rss",
-      "hash": "700d6ccaef0ca1c8"
+      "title": "US rockets firm eyes up mothballed Highland spaceport",
+      "url": "https://www.bbc.co.uk/news/articles/cmrlyy5xw276o?at_medium=RSS&at_campaign=rss",
+      "hash": "d5cbe40b4f895773"
     },
     {
-      "title": "A really simple guide to climate change",
-      "url": "https://www.bbc.co.uk/news/articles/c9w15nggj58o?at_medium=RSS&at_campaign=rss",
-      "hash": "04fe3e1c86308b62"
+      "title": "Elon Musk appears to signal the end of the road for Cybertruck",
+      "url": "https://www.bbc.co.uk/news/articles/cq1j33w7d232o?at_medium=RSS&at_campaign=rss",
+      "hash": "0b2f0b383154ec60"
     },
     {
-      "title": "A really simple guide to climate change",
-      "url": "https://www.bbc.co.uk/news/articles/c9w15nggj58o?at_medium=RSS&at_campaign=rss",
-      "hash": "04fe3e1c86308b62"
+      "title": "AI stocks climb after trillions wiped from market values",
+      "url": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
+      "hash": "4644cfb1d29cb06c"
     }
   ]
 }
