@@ -1,0 +1,24 @@
+{
+  "date": "2026-11-10",
+  "title": "Daily English Briefing · 2026-11-10",
+  "audio": "generated/2026-11-10.mp3",
+  "srt": "generated/2026-11-10.srt",
+  "text": "generated/2026-11-10.txt",
+  "sources": [
+    {
+      "title": "Countryside managers prepare for climate change",
+      "url": "https://www.bbc.co.uk/news/articles/c3ewe99dzdlpo?at_medium=RSS&at_campaign=rss",
+      "hash": "df2d14e2b3244635"
+    },
+    {
+      "title": "Government 'looking seriously' at banning under-16s from Vinted and eBay",
+      "url": "https://www.bbc.co.uk/news/articles/cmzxjvpqrjxro?at_medium=RSS&at_campaign=rss",
+      "hash": "bc48ee53008d60d6"
+    },
+    {
+      "title": "Can the Zelda remake capture the magic of the original?",
+      "url": "https://www.bbc.co.uk/news/articles/cm8xznl0n1q4o?at_medium=RSS&at_campaign=rss",
+      "hash": "a71d8a2093e35d51"
+    }
+  ]
+}

@@ -1,24 +1,24 @@
 {
-  "date": "2026-11-09",
-  "title": "Daily English Briefing · 2026-11-09",
-  "audio": "generated/2026-11-09.mp3",
-  "srt": "generated/2026-11-09.srt",
-  "text": "generated/2026-11-09.txt",
+  "date": "2026-11-10",
+  "title": "Daily English Briefing · 2026-11-10",
+  "audio": "generated/2026-11-10.mp3",
+  "srt": "generated/2026-11-10.srt",
+  "text": "generated/2026-11-10.txt",
   "sources": [
     {
-      "title": "US rockets firm eyes up mothballed Highland spaceport",
-      "url": "https://www.bbc.co.uk/news/articles/cmrlyy5xw276o?at_medium=RSS&at_campaign=rss",
-      "hash": "d5cbe40b4f895773"
+      "title": "Countryside managers prepare for climate change",
+      "url": "https://www.bbc.co.uk/news/articles/c3ewe99dzdlpo?at_medium=RSS&at_campaign=rss",
+      "hash": "df2d14e2b3244635"
     },
     {
-      "title": "Elon Musk appears to signal the end of the road for Cybertruck",
-      "url": "https://www.bbc.co.uk/news/articles/cq1j33w7d232o?at_medium=RSS&at_campaign=rss",
-      "hash": "0b2f0b383154ec60"
+      "title": "Government 'looking seriously' at banning under-16s from Vinted and eBay",
+      "url": "https://www.bbc.co.uk/news/articles/cmzxjvpqrjxro?at_medium=RSS&at_campaign=rss",
+      "hash": "bc48ee53008d60d6"
     },
     {
-      "title": "AI stocks climb after trillions wiped from market values",
-      "url": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
-      "hash": "4644cfb1d29cb06c"
+      "title": "Can the Zelda remake capture the magic of the original?",
+      "url": "https://www.bbc.co.uk/news/articles/cm8xznl0n1q4o?at_medium=RSS&at_campaign=rss",
+      "hash": "a71d8a2093e35d51"
     }
   ]
 }
