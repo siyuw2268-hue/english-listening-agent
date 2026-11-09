@@ -1,24 +1,24 @@
 {
-  "date": "2026-11-10",
-  "title": "Daily English Briefing · 2026-11-10",
-  "audio": "generated/2026-11-10.mp3",
-  "srt": "generated/2026-11-10.srt",
-  "text": "generated/2026-11-10.txt",
+  "date": "2026-11-11",
+  "title": "Daily English Briefing · 2026-11-11",
+  "audio": "generated/2026-11-11.mp3",
+  "srt": "generated/2026-11-11.srt",
+  "text": "generated/2026-11-11.txt",
   "sources": [
     {
-      "title": "Countryside managers prepare for climate change",
-      "url": "https://www.bbc.co.uk/news/articles/c3ewe99dzdlpo?at_medium=RSS&at_campaign=rss",
-      "hash": "df2d14e2b3244635"
+      "title": "Who is the suspected Chinese spy at centre of the Nvidia investigation?",
+      "url": "https://www.bbc.co.uk/news/videos/c80404zyr53wo?at_medium=RSS&at_campaign=rss",
+      "hash": "73d85080281dc255"
     },
     {
-      "title": "Government 'looking seriously' at banning under-16s from Vinted and eBay",
-      "url": "https://www.bbc.co.uk/news/articles/cmzxjvpqrjxro?at_medium=RSS&at_campaign=rss",
-      "hash": "bc48ee53008d60d6"
+      "title": "Scientists predict 2026 hottest year on record as climate talks begin",
+      "url": "https://www.bbc.co.uk/news/articles/c6pvgg7mdvdvo?at_medium=RSS&at_campaign=rss",
+      "hash": "1df3f5d98fff817d"
     },
     {
-      "title": "Can the Zelda remake capture the magic of the original?",
-      "url": "https://www.bbc.co.uk/news/articles/cm8xznl0n1q4o?at_medium=RSS&at_campaign=rss",
-      "hash": "a71d8a2093e35d51"
+      "title": "Rising cost of living tests UK's net zero ambitions",
+      "url": "https://www.bbc.co.uk/news/videos/cm1dwd4e4ywvo?at_medium=RSS&at_campaign=rss",
+      "hash": "6e7dc05e8868443e"
     }
   ]
 }
