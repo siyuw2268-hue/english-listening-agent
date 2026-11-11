@@ -1,0 +1,24 @@
+{
+  "date": "2026-11-13",
+  "title": "Daily English Briefing · 2026-11-13",
+  "audio": "generated/2026-11-13.mp3",
+  "srt": "generated/2026-11-13.srt",
+  "text": "generated/2026-11-13.txt",
+  "sources": [
+    {
+      "title": "New Indian mega library rocked by scandal over 'AI-generated books'",
+      "url": "https://www.bbc.co.uk/news/articles/c54gne3plvrxo?at_medium=RSS&at_campaign=rss",
+      "hash": "8779a8e1e241ffd2"
+    },
+    {
+      "title": "What we know so far about Jensen Huang's affair with suspected Chinese spy",
+      "url": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
+      "hash": "ecf438f5a5f50639"
+    },
+    {
+      "title": "Robot vessels take on the dangerous work of mine hunting",
+      "url": "https://www.bbc.co.uk/news/articles/cj5yn24llxd6o?at_medium=RSS&at_campaign=rss",
+      "hash": "c7231087f877d7f7"
+    }
+  ]
+}
