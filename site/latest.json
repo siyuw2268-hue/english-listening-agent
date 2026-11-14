@@ -1,24 +1,24 @@
 {
-  "date": "2026-11-15",
-  "title": "Daily English Briefing · 2026-11-15",
-  "audio": "generated/2026-11-15.mp3",
-  "srt": "generated/2026-11-15.srt",
-  "text": "generated/2026-11-15.txt",
+  "date": "2026-11-16",
+  "title": "Daily English Briefing · 2026-11-16",
+  "audio": "generated/2026-11-16.mp3",
+  "srt": "generated/2026-11-16.srt",
+  "text": "generated/2026-11-16.txt",
   "sources": [
     {
-      "title": "SpaceX to attempt double catch of huge Starship rocket",
+      "title": "How the Jensen Huang scandal created a headache for business-friendly Singapore",
+      "url": "https://www.bbc.co.uk/news/articles/ck1exevgql4qo?at_medium=RSS&at_campaign=rss",
+      "hash": "5e92bb33d971c800"
+    },
+    {
+      "title": "Second catch attempt for SpaceX Starship rocket",
       "url": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss",
-      "hash": "c238be1a7b1ff6db"
+      "hash": "06912e79a3f36f60"
     },
     {
-      "title": "Climate action discussed at youth COP meeting",
-      "url": "https://www.bbc.co.uk/news/articles/ckx28ly7y387o?at_medium=RSS&at_campaign=rss",
-      "hash": "d9a68534ea103a71"
-    },
-    {
-      "title": "National Trust takes back land for nature restoration",
-      "url": "https://www.bbc.co.uk/news/articles/cqvg257kl440o?at_medium=RSS&at_campaign=rss",
-      "hash": "fb5fbfa49b899318"
+      "title": "Second catch attempt for SpaceX Starship rocket",
+      "url": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss",
+      "hash": "06912e79a3f36f60"
     }
   ]
 }
