@@ -1,24 +1,24 @@
 {
-  "date": "2026-11-17",
-  "title": "Daily English Briefing · 2026-11-17",
-  "audio": "generated/2026-11-17.mp3",
-  "srt": "generated/2026-11-17.srt",
-  "text": "generated/2026-11-17.txt",
+  "date": "2026-11-18",
+  "title": "Daily English Briefing · 2026-11-18",
+  "audio": "generated/2026-11-18.mp3",
+  "srt": "generated/2026-11-18.srt",
+  "text": "generated/2026-11-18.txt",
   "sources": [
     {
-      "title": "SpaceX successfully catches top of huge Starship rocket for first time",
-      "url": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss",
-      "hash": "d6b05db30b90f9af"
+      "title": "Pupils fascinated by space get astronomy lesson",
+      "url": "https://www.bbc.co.uk/news/articles/c67428w9vvkqo?at_medium=RSS&at_campaign=rss",
+      "hash": "16ea8d01f9754c7f"
     },
     {
-      "title": "SpaceX catches part of its Starship rocket on return to Earth",
-      "url": "https://www.bbc.co.uk/news/videos/cw23j8pkk421o?at_medium=RSS&at_campaign=rss",
-      "hash": "7c66f9ddd467764d"
+      "title": "'Can you believe it?': SpaceX catches part of its Starship rocket on return to Earth",
+      "url": "https://www.bbc.co.uk/news/videos/cwlym2gy3y3eo?at_medium=RSS&at_campaign=rss",
+      "hash": "8e0aafcf616cf945"
     },
     {
-      "title": "SpaceX successfully catches top of huge Starship rocket for first time",
-      "url": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss",
-      "hash": "d6b05db30b90f9af"
+      "title": "California sues OpenAI over Hugging Face attack",
+      "url": "https://www.bbc.co.uk/news/articles/c6wy4xv2mxglo?at_medium=RSS&at_campaign=rss",
+      "hash": "180ca557e37c5f58"
     }
   ]
 }

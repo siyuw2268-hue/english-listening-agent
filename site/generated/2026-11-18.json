@@ -1,0 +1,24 @@
+{
+  "date": "2026-11-18",
+  "title": "Daily English Briefing · 2026-11-18",
+  "audio": "generated/2026-11-18.mp3",
+  "srt": "generated/2026-11-18.srt",
+  "text": "generated/2026-11-18.txt",
+  "sources": [
+    {
+      "title": "Pupils fascinated by space get astronomy lesson",
+      "url": "https://www.bbc.co.uk/news/articles/c67428w9vvkqo?at_medium=RSS&at_campaign=rss",
+      "hash": "16ea8d01f9754c7f"
+    },
+    {
+      "title": "'Can you believe it?': SpaceX catches part of its Starship rocket on return to Earth",
+      "url": "https://www.bbc.co.uk/news/videos/cwlym2gy3y3eo?at_medium=RSS&at_campaign=rss",
+      "hash": "8e0aafcf616cf945"
+    },
+    {
+      "title": "California sues OpenAI over Hugging Face attack",
+      "url": "https://www.bbc.co.uk/news/articles/c6wy4xv2mxglo?at_medium=RSS&at_campaign=rss",
+      "hash": "180ca557e37c5f58"
+    }
+  ]
+}
