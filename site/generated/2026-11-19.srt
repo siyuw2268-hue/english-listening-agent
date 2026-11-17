@@ -1,0 +1,52 @@
+1
+00:00:00,100 --> 00:00:03,785
+Welcome to your daily English listening briefing.
+
+2
+00:00:03,735 --> 00:00:06,044
+Here are today’s stories.
+
+3
+00:00:06,044 --> 00:00:08,044
+Story number 1.
+
+4
+00:00:08,044 --> 00:00:12,846
+OpenAI sued by California over Hugging Face attack.
+
+5
+00:00:12,846 --> 00:00:20,191
+Attorney General Rob Bonta alleges that the artificial intelligence misled and endangered the public.
+
+6
+00:00:20,191 --> 00:00:22,205
+Story number 2.
+
+7
+00:00:22,205 --> 00:00:28,499
+New Nvidia boss says 'ambition has never been greater' after Jensen Huang's exit.
+
+8
+00:00:28,499 --> 00:00:36,852
+Nvidia's ousted CEO Jensen Huang earlier on Tuesday offered to return, despite the board's disinterest.
+
+9
+00:00:36,852 --> 00:00:38,955
+Story number 3.
+
+10
+00:00:38,955 --> 00:00:44,191
+How new US chip restrictions on South East Asia will hit China.
+
+11
+00:00:44,191 --> 00:00:52,088
+The new rules restrict chip exports and also access to their computing power, which China relies on heavily.
+
+12
+00:00:52,088 --> 00:00:56,029
+That concludes today’s English listening briefing.
+
+13
+00:00:56,029 --> 00:00:57,999
+Thank you for listening.
+

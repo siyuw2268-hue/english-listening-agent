@@ -1,0 +1,24 @@
+{
+  "date": "2026-11-19",
+  "title": "Daily English Briefing · 2026-11-19",
+  "audio": "generated/2026-11-19.mp3",
+  "srt": "generated/2026-11-19.srt",
+  "text": "generated/2026-11-19.txt",
+  "sources": [
+    {
+      "title": "OpenAI sued by California over Hugging Face attack",
+      "url": "https://www.bbc.co.uk/news/articles/c6wy4xv2mxglo?at_medium=RSS&at_campaign=rss",
+      "hash": "ef26c613bd2e216a"
+    },
+    {
+      "title": "New Nvidia boss says 'ambition has never been greater' after Jensen Huang's exit",
+      "url": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss",
+      "hash": "a7eadcf82f1d0fb3"
+    },
+    {
+      "title": "How new US chip restrictions on South East Asia will hit China",
+      "url": "https://www.bbc.co.uk/news/articles/cwq6e2qgvmlgo?at_medium=RSS&at_campaign=rss",
+      "hash": "23425748cb5feef5"
+    }
+  ]
+}
