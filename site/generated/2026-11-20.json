@@ -1,0 +1,24 @@
+{
+  "date": "2026-11-20",
+  "title": "Daily English Briefing · 2026-11-20",
+  "audio": "generated/2026-11-20.mp3",
+  "srt": "generated/2026-11-20.srt",
+  "text": "generated/2026-11-20.txt",
+  "sources": [
+    {
+      "title": "How important are Nvidia and Jensen Huang to the US economy?",
+      "url": "https://www.bbc.co.uk/news/articles/c68798vdprwpo?at_medium=RSS&at_campaign=rss",
+      "hash": "eafa69bf6a3372e3"
+    },
+    {
+      "title": "Government risks missing climate targets if EV rules weakened, adviser warns",
+      "url": "https://www.bbc.co.uk/news/articles/c63rgqg5l9l2o?at_medium=RSS&at_campaign=rss",
+      "hash": "9049a42641f8be31"
+    },
+    {
+      "title": "Pakistan's solar revolution is so successful the national grid is lagging behind",
+      "url": "https://www.bbc.co.uk/news/articles/ckvg2n2q3103o?at_medium=RSS&at_campaign=rss",
+      "hash": "7fec44d3d8b588bf"
+    }
+  ]
+}
