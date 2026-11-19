@@ -1,24 +1,24 @@
 {
-  "date": "2026-11-20",
-  "title": "Daily English Briefing · 2026-11-20",
-  "audio": "generated/2026-11-20.mp3",
-  "srt": "generated/2026-11-20.srt",
-  "text": "generated/2026-11-20.txt",
+  "date": "2026-11-21",
+  "title": "Daily English Briefing · 2026-11-21",
+  "audio": "generated/2026-11-21.mp3",
+  "srt": "generated/2026-11-21.srt",
+  "text": "generated/2026-11-21.txt",
   "sources": [
     {
-      "title": "How important are Nvidia and Jensen Huang to the US economy?",
-      "url": "https://www.bbc.co.uk/news/articles/c68798vdprwpo?at_medium=RSS&at_campaign=rss",
-      "hash": "eafa69bf6a3372e3"
+      "title": "Anthropic becomes most valuable AI firm as shares soar in stock market debut",
+      "url": "https://www.bbc.co.uk/news/articles/c3x29ggenz12o?at_medium=RSS&at_campaign=rss",
+      "hash": "5c061ca10d3f4523"
     },
     {
-      "title": "Government risks missing climate targets if EV rules weakened, adviser warns",
-      "url": "https://www.bbc.co.uk/news/articles/c63rgqg5l9l2o?at_medium=RSS&at_campaign=rss",
-      "hash": "9049a42641f8be31"
+      "title": "Dutch watchdog tells people not to buy AI smart glasses",
+      "url": "https://www.bbc.co.uk/news/articles/ckq6eyrzrzy5o?at_medium=RSS&at_campaign=rss",
+      "hash": "f79e11a870073747"
     },
     {
-      "title": "Pakistan's solar revolution is so successful the national grid is lagging behind",
-      "url": "https://www.bbc.co.uk/news/articles/ckvg2n2q3103o?at_medium=RSS&at_campaign=rss",
-      "hash": "7fec44d3d8b588bf"
+      "title": "Anthropic raises $81bn in record-breaking stock market debut",
+      "url": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss",
+      "hash": "dcb7e0d02da323ae"
     }
   ]
 }
