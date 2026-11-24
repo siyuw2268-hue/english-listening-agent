@@ -1,24 +1,24 @@
 {
-  "date": "2026-11-24",
-  "title": "Daily English Briefing · 2026-11-24",
-  "audio": "generated/2026-11-24.mp3",
-  "srt": "generated/2026-11-24.srt",
-  "text": "generated/2026-11-24.txt",
+  "date": "2026-11-25",
+  "title": "Daily English Briefing · 2026-11-25",
+  "audio": "generated/2026-11-25.mp3",
+  "srt": "generated/2026-11-25.srt",
+  "text": "generated/2026-11-25.txt",
   "sources": [
     {
-      "title": "What's next after no deal at COP31 climate summit?",
-      "url": "https://www.bbc.co.uk/news/videos/cx987g7q019go?at_medium=RSS&at_campaign=rss",
-      "hash": "51159396c2949649"
+      "title": "What failure of COP31 reveals about a divided world",
+      "url": "https://www.bbc.co.uk/news/articles/cky970n83rvjo?at_medium=RSS&at_campaign=rss",
+      "hash": "cc6f67a780aefb69"
     },
     {
-      "title": "COP31 fails to reach major climate deal as talks expose deep divisions",
+      "title": "Five takeaways from the failed climate talks COP31",
+      "url": "https://www.bbc.co.uk/news/articles/cm75237wlp3lo?at_medium=RSS&at_campaign=rss",
+      "hash": "44ac8789189b9cd6"
+    },
+    {
+      "title": "Longest-ever UN climate talks end with no deal as deep divisions exposed",
       "url": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss",
-      "hash": "5b6c1b907a7f0c03"
-    },
-    {
-      "title": "Mysterious Mercury gets a visitor - after spacecraft's eight-year epic voyage",
-      "url": "https://www.bbc.co.uk/news/articles/c39w9l4v1p9ro?at_medium=RSS&at_campaign=rss",
-      "hash": "ce4d0e3e3a324a8c"
+      "hash": "0857de9afa12ab6e"
     }
   ]
 }
