@@ -1,24 +1,24 @@
 {
-  "date": "2026-11-25",
-  "title": "Daily English Briefing · 2026-11-25",
-  "audio": "generated/2026-11-25.mp3",
-  "srt": "generated/2026-11-25.srt",
-  "text": "generated/2026-11-25.txt",
+  "date": "2026-11-26",
+  "title": "Daily English Briefing · 2026-11-26",
+  "audio": "generated/2026-11-26.mp3",
+  "srt": "generated/2026-11-26.srt",
+  "text": "generated/2026-11-26.txt",
   "sources": [
     {
-      "title": "What failure of COP31 reveals about a divided world",
-      "url": "https://www.bbc.co.uk/news/articles/cky970n83rvjo?at_medium=RSS&at_campaign=rss",
-      "hash": "cc6f67a780aefb69"
+      "title": "Helpful but awkward: My week with Meta's Muse ahead of its UK launch",
+      "url": "https://www.bbc.co.uk/news/articles/c9gkld2l38y6o?at_medium=RSS&at_campaign=rss",
+      "hash": "0a8d5db7bf99a9ac"
     },
     {
-      "title": "Five takeaways from the failed climate talks COP31",
-      "url": "https://www.bbc.co.uk/news/articles/cm75237wlp3lo?at_medium=RSS&at_campaign=rss",
-      "hash": "44ac8789189b9cd6"
+      "title": "New draft deal aims to avert collapse of talks at COP31 climate summit",
+      "url": "https://www.bbc.co.uk/news/articles/cq7827z2841zo?at_medium=RSS&at_campaign=rss",
+      "hash": "f0dc211fb172c7b3"
     },
     {
-      "title": "Longest-ever UN climate talks end with no deal as deep divisions exposed",
-      "url": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss",
-      "hash": "0857de9afa12ab6e"
+      "title": "Will COP31 end with a new global climate deal?",
+      "url": "https://www.bbc.co.uk/news/videos/cqn0dwrewrwxo?at_medium=RSS&at_campaign=rss",
+      "hash": "8d08d0e8c4c9677e"
     }
   ]
 }
