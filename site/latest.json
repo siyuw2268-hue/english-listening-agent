@@ -1,24 +1,24 @@
 {
-  "date": "2026-11-28",
-  "title": "Daily English Briefing · 2026-11-28",
-  "audio": "generated/2026-11-28.mp3",
-  "srt": "generated/2026-11-28.srt",
-  "text": "generated/2026-11-28.txt",
+  "date": "2026-11-29",
+  "title": "Daily English Briefing · 2026-11-29",
+  "audio": "generated/2026-11-29.mp3",
+  "srt": "generated/2026-11-29.srt",
+  "text": "generated/2026-11-29.txt",
   "sources": [
     {
-      "title": "Musk's plan to send a million SpaceX data satellites into space approved",
-      "url": "https://www.bbc.co.uk/news/articles/cwp836l8n1jgo?at_medium=RSS&at_campaign=rss",
-      "hash": "95fc7e44219fabb8"
+      "title": "Images from Earth's asteroid defence test reveal new crater",
+      "url": "https://www.bbc.co.uk/news/videos/cmjwjnxp2jgno?at_medium=RSS&at_campaign=rss",
+      "hash": "06273071c57f93da"
     },
     {
-      "title": "Musk's plan to send a million SpaceX data satellites into space approved",
-      "url": "https://www.bbc.co.uk/news/articles/cwp836l8n1jgo?at_medium=RSS&at_campaign=rss",
-      "hash": "95fc7e44219fabb8"
+      "title": "Why is there a shortage of 'wizard' elevator mechanics?",
+      "url": "https://www.bbc.co.uk/news/articles/c52e8k19y94mo?at_medium=RSS&at_campaign=rss",
+      "hash": "8a8ed4f7152f9c4d"
     },
     {
-      "title": "Images of asteroid targeted to test Earth's defences reveal stadium-sized crater",
-      "url": "https://www.bbc.co.uk/news/articles/cw8dv112r5gmo?at_medium=RSS&at_campaign=rss",
-      "hash": "ae40a505eb420b1f"
+      "title": "Asia made a big AI bet on Nvidia. What happens now?",
+      "url": "https://www.bbc.co.uk/news/articles/cqevr4lnd1nxo?at_medium=RSS&at_campaign=rss",
+      "hash": "fb0fcc10d9717ade"
     }
   ]
 }
